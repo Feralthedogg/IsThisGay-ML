@@ -63,7 +63,7 @@ A Python-based Multi-Layer Perceptron (MLP) implemented with NumPy to classify t
     Execute the Python script to train the MLP model and perform predictions:
 
     ```bash
-    python main.py
+    python isThisGay-ML.py
     ```
 
     The script will train the model and periodically print the loss. After training, it will evaluate the model on predefined test sentences and output the predictions.
